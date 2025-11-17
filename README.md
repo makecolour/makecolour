@@ -99,6 +99,7 @@ const quyenNguyen = {
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
 </p>
 
 <!-- AI & ML -->
@@ -220,6 +221,73 @@ An intelligent, **procrastination-aware** task management solution designed spec
 - ✅ Advanced time tracking
 - ✅ Multi-device sync
 - ✅ Vietnamese student-centric
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- Secondary Featured Project - EchoWave -->
+### 🌊 **EchoWave - Real-Time Messaging Platform**
+
+<a href="https://echowave.positive.io.vn/chat">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-Try_Now-00D9FF?style=for-the-badge&labelColor=1a1a1a" alt="Live Demo"/>
+</a>
+<a href="https://github.com/makecolour/EchoWave">
+  <img src="https://img.shields.io/badge/📦_Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+</a>
+
+<br><br>
+
+<table>
+<tr>
+<td width="60%">
+
+**Enterprise-Grade WebSocket Messaging Server**
+
+A production-ready real-time messaging platform with multi-cluster support, built for scalability and reliability. Features include:
+
+🚀 **Real-Time Communication**
+- Instant WebSocket messaging via Socket.IO
+- Multi-cluster horizontal scaling with Redis pub/sub
+- Automatic device registration & authentication
+- Broadcast & direct messaging capabilities
+
+📱 **Cross-Platform Support**
+- Modern web interface with AngularJS
+- Native Android companion app
+- Automatic reconnection handling
+- Offline message persistence
+
+🔧 **Advanced Architecture**
+- MySQL for persistent chat history
+- Redis for real-time pub/sub messaging
+- Connection pooling & load balancing
+- PM2 clustering for production deployment
+
+</td>
+<td width="40%">
+
+**Tech Stack:**
+
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black"/>
+</p>
+
+**Key Features:**
+- ✅ Multi-cluster deployment
+- ✅ Persistent message storage
+- ✅ Web + Android clients
+- ✅ Auto device management
+- ✅ Production-ready architecture
 
 </td>
 </tr>
