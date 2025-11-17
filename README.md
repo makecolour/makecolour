@@ -371,8 +371,8 @@ A production-ready real-time messaging platform with multi-cluster support, buil
 <td width="50%">
 <h3 align="center">✈️ Voyagenius</h3>
 <div align="center">
-<a href="https://github.com/makecolour/Voyagenius" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=makecolour&repo=Voyagenius&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Voyagenius"/>
+<a href="https://github.com/makecolour/Voyagenius_app" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=makecolour&repo=Voyagenius_app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Voyagenius"/>
 </a>
 <br><br>
 <p>
