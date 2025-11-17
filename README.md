@@ -6,13 +6,6 @@
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Junior+Fullstack+Developer+%F0%9F%9A%80;Founder+of+POSitive+%F0%9F%92%BC;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Unity+Game+Developer+%F0%9F%8E%AE;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" /></a>
 
-<!-- 3D Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/makecolour/makecolour/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/makecolour/makecolour/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/makecolour/makecolour/output/github-contribution-grid-snake.svg">
-</picture>
-
 <!-- Social Badges with Hover Effects -->
 <p align="center">
   <a href="https://www.linkedin.com/in/gaslighter/">
@@ -35,8 +28,6 @@
 ---
 
 <!-- About Me Section with Gradient -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
 ```typescript
